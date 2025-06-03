@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 of the merge conflit
+=======
+this is f3
+>>>>>>> fb
